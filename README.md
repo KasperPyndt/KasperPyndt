@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Kasper
+
 <!--
 **KasperPyndt/KasperPyndt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
