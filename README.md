@@ -1,4 +1,6 @@
-## Hello font people. I'm Kasper, an independent type designer based in Copenhagen. Watch this space for small scripts and plugins that I find useful on a day-to-day basis. 
+## Hello font people. I'm Kasper, an independent type designer based in Copenhagen. 
+
+Watch this space for small scripts and plugins that I find useful on a day-to-day basis. 
 
 <!--
 **KasperPyndt/KasperPyndt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
